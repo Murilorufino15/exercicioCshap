@@ -1,0 +1,15 @@
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.AssemblyInfo.cs
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\bin\Debug\net10.0\Fundamentos.exe
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\bin\Debug\net10.0\Fundamentos.deps.json
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\bin\Debug\net10.0\Fundamentos.runtimeconfig.json
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\bin\Debug\net10.0\Fundamentos.dll
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\bin\Debug\net10.0\Fundamentos.pdb
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.dll
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\refint\Fundamentos.dll
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.pdb
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamentos.genruntimeconfig.cache
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\ref\Fundamentos.dll
+C:\Users\54142125893\source\repos\Fundamentos\Fundamentos\obj\Debug\net10.0\Fundamen.C0AA8958.Up2Date

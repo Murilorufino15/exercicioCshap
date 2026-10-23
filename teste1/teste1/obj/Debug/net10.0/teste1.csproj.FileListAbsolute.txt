@@ -1,0 +1,15 @@
+C:\Users\54142125893\source\repos\teste1\teste1\bin\Debug\net10.0\teste1.exe
+C:\Users\54142125893\source\repos\teste1\teste1\bin\Debug\net10.0\teste1.deps.json
+C:\Users\54142125893\source\repos\teste1\teste1\bin\Debug\net10.0\teste1.runtimeconfig.json
+C:\Users\54142125893\source\repos\teste1\teste1\bin\Debug\net10.0\teste1.dll
+C:\Users\54142125893\source\repos\teste1\teste1\bin\Debug\net10.0\teste1.pdb
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.AssemblyInfoInputs.cache
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.AssemblyInfo.cs
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.dll
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\refint\teste1.dll
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.pdb
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.genruntimeconfig.cache
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\ref\teste1.dll
+C:\Users\54142125893\source\repos\teste1\teste1\obj\Debug\net10.0\teste1.csproj.Up2Date

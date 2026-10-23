@@ -1,0 +1,15 @@
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\bin\Debug\net10.0\Exercicioslogicaprog.exe
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\bin\Debug\net10.0\Exercicioslogicaprog.deps.json
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\bin\Debug\net10.0\Exercicioslogicaprog.runtimeconfig.json
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\bin\Debug\net10.0\Exercicioslogicaprog.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\bin\Debug\net10.0\Exercicioslogicaprog.pdb
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.AssemblyInfoInputs.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.AssemblyInfo.cs
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.csproj.CoreCompileInputs.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\refint\Exercicioslogicaprog.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.pdb
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercicioslogicaprog.genruntimeconfig.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\ref\Exercicioslogicaprog.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicioslogicaprog\Exercicioslogicaprog\obj\Debug\net10.0\Exercici.6E37DF43.Up2Date

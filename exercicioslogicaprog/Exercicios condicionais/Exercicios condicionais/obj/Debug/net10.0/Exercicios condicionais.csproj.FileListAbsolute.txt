@@ -1,0 +1,15 @@
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\bin\Debug\net10.0\Exercicios condicionais.exe
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\bin\Debug\net10.0\Exercicios condicionais.deps.json
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\bin\Debug\net10.0\Exercicios condicionais.runtimeconfig.json
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\bin\Debug\net10.0\Exercicios condicionais.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\bin\Debug\net10.0\Exercicios condicionais.pdb
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.AssemblyInfoInputs.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.AssemblyInfo.cs
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.csproj.CoreCompileInputs.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\refint\Exercicios condicionais.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.pdb
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercicios condicionais.genruntimeconfig.cache
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\ref\Exercicios condicionais.dll
+C:\Users\54142125893\source\repos\exercicioslogicaprog\Exercicios condicionais\Exercicios condicionais\obj\Debug\net10.0\Exercici.DEA0797A.Up2Date
